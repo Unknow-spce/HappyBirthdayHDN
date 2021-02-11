@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos.css">
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+</head> 
+<body>
+    <div class="contenedor">
+        <img src="imagenes/FONDO1.jpg" class="fondo" alt="">
+        <div class="boton">
+            <div class="btn"></div>
+        </div>
+        <nav class="menu">
+            <div >
+                <img src="imagenes/LOGO.png" class="logo" alt="">
+            </div>
+            <ul>
+                <li>News</li>
+                <li>About</li>
+                <li>Rebius</li>
+                <span class="fas fa-search icon"></span>
+            </ul>
+        </nav>
+        
+        <div class="box-text">
+            <div class="numeros">
+                <li>25</li>
+                <li>26</li>
+                <li class="gran">27</li>
+                <li>28</li>
+                <li>29</li>
+            </div>
+<div class="box-titulo">
+            <div class="titulo">
+                <img src="imagenes/letras.png" alt="">
+ <p>HAPPY BIRTHDAY MISS NAOMI </p>
+<p> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+            <div class="logo_ps">
+                <img src="imagenes/logo_ps4.png" alt="">
+            </div>
+            </div>
+           
+            
+        </div>
+        </div>
+        
+        
+        <div class="redes-sociales">
+            <li class="fab fa-facebook-square"></li>
+            <li class="fab fa twitter-square"></li>
+            <li class="fab fa-youtube"></li>
+            <li class="fab fa-instagram"></li>
+        </div>
+    </div>
+</body>
+</html>
